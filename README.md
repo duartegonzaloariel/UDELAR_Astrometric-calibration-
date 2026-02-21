@@ -4,6 +4,7 @@ This repository contains the source code for a neural-network–based astrometri
 
 The goal of this work is to map pixel coordinates from all-sky images to physical sky coordinates (azimuth and zenith) using deep learning models, providing a robust alternative to classical calibration methods, especially under optical distortions and multi-station configurations.
 
+
 🔍 Overview
 
 The calibration pipeline includes:
@@ -19,6 +20,7 @@ The calibration pipeline includes:
 
 The methodology is designed to be scalable and adaptable to different camera setups and observing conditions.
 
+
 🔒 Data Availability
 
 ⚠️ The dataset used in this study is not included in this repository.
@@ -32,6 +34,7 @@ Preprocess compatible datasets
 Train and evaluate the astrometric calibration models
 
 Reproduce the methodology and workflow described in the associated scientific work, using external or private data with the same structure
+
 
 📁 Repository Contents
 
